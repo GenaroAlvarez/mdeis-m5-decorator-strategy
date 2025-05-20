@@ -1,7 +1,7 @@
 # Katas del Patrón Decorador
 
-## Integrantes
-- Ing. Alvarez Orias Genaro Mauricio
+## Integrante
+- Ing. Alvarez Orias Genaro Mauricio - Grupo 3
 
 ## Kata 7: Generación de Reportes
 
